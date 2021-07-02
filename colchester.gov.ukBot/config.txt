@@ -1,0 +1,7 @@
+{
+  "logToFileI": "True",
+  "logToUII": "True",
+  "outputI": "D:\\Work\\colchester.gov.ukBot\\scrapingTemplateV51\\bin\\Debug\\output.csv",
+  "inputI": "D:\\Work\\colchester.gov.ukBot\\scrapingTemplateV51\\bin\\Debug\\input.txt",
+  "threadsI": "5"
+}
