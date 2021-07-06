@@ -97,6 +97,8 @@ namespace colchester.gov.ukBot
                 //Console.WriteLine($"public string {info} {{ get; set; }}");
             }
 
+            item.Url = href;
+
             return item;
             //doc.Save("doc.html");
             //Process.Start("doc.html");

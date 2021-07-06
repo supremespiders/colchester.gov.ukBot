@@ -2,6 +2,7 @@
 {
     public class Item
     {
+        public string Url { get; set; }
         public string ApplicationType { get; set; }
         public string DevelopmentDescription { get; set; }
         public string SiteAddress { get; set; }

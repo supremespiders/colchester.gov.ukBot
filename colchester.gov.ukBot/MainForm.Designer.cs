@@ -256,7 +256,7 @@ namespace colchester.gov.ukBot
             this.metroTabPage2.Location = new System.Drawing.Point(4, 41);
             this.metroTabPage2.Margin = new System.Windows.Forms.Padding(4);
             this.metroTabPage2.Name = "metroTabPage2";
-            this.metroTabPage2.Size = new System.Drawing.Size(1246, 566);
+            this.metroTabPage2.Size = new System.Drawing.Size(1223, 383);
             this.metroTabPage2.TabIndex = 1;
             this.metroTabPage2.Text = "Logs";
             this.metroTabPage2.VerticalScrollbarBarColor = false;
@@ -273,7 +273,7 @@ namespace colchester.gov.ukBot
             this.metroPanel2.Location = new System.Drawing.Point(0, 0);
             this.metroPanel2.Margin = new System.Windows.Forms.Padding(4);
             this.metroPanel2.Name = "metroPanel2";
-            this.metroPanel2.Size = new System.Drawing.Size(1246, 566);
+            this.metroPanel2.Size = new System.Drawing.Size(1223, 383);
             this.metroPanel2.TabIndex = 2;
             this.metroPanel2.VerticalScrollbarBarColor = true;
             this.metroPanel2.VerticalScrollbarHighlightOnWheel = false;
@@ -290,7 +290,7 @@ namespace colchester.gov.ukBot
             this.DebugT.Margin = new System.Windows.Forms.Padding(5);
             this.DebugT.Name = "DebugT";
             this.DebugT.ReadOnly = true;
-            this.DebugT.Size = new System.Drawing.Size(1246, 566);
+            this.DebugT.Size = new System.Drawing.Size(1223, 383);
             this.DebugT.TabIndex = 1;
             this.DebugT.Text = "";
             this.DebugT.WordWrap = false;
@@ -322,7 +322,7 @@ namespace colchester.gov.ukBot
             this.Name = "MainForm";
             this.Padding = new System.Windows.Forms.Padding(27, 74, 27, 25);
             this.Style = MetroFramework.MetroColorStyle.Orange;
-            this.Text = "         colchester.gov.ukBot 1.00";
+            this.Text = "         colchester.gov.ukBot 1.01";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panel3.ResumeLayout(false);
